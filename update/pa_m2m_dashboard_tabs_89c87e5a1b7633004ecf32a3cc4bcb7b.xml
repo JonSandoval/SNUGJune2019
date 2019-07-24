@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="Property Request Dashboard">b5a83e5a1b7633004ecf32a3cc4bcb28</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-24 20:53:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>89c87e5a1b7633004ecf32a3cc4bcb7b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b5a83e5a1b7633004ecf32a3cc4bcb28</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Property Request" source="x_120070_property">1797ded21bb233004ecf32a3cc4bcbfa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Property Request">1797ded21bb233004ecf32a3cc4bcbfa</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_89c87e5a1b7633004ecf32a3cc4bcb7b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-24 20:53:34</sys_updated_on>
+        <tab display_value="Overview">49c87e5a1b7633004ecf32a3cc4bcb79</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>

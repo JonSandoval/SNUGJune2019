@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Property Management Request">5a46aeda1bf233004ecf32a3cc4bcb65</sc_cat_item>
+        <sc_category display_value="Facilities">d25201c8c611227a00667da13c6d33af</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>User2</sys_created_by>
+        <sys_created_on>2019-07-24 20:00:48</sys_created_on>
+        <sys_id>d0bc6e921b3633004ecf32a3cc4bcbe4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Facilities.Property Management Request</sys_name>
+        <sys_package display_value="Property Request" source="x_120070_property">1797ded21bb233004ecf32a3cc4bcbfa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Property Request">1797ded21bb233004ecf32a3cc4bcbfa</sys_scope>
+        <sys_update_name>sc_cat_item_category_d0bc6e921b3633004ecf32a3cc4bcbe4</sys_update_name>
+        <sys_updated_by>User2</sys_updated_by>
+        <sys_updated_on>2019-07-24 20:00:48</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2019-07-24 19:45:00</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>User4</sys_created_by>
+        <sys_created_on>2019-07-24 19:44:58</sys_created_on>
+        <sys_id>5419629e1bf233004ecf32a3cc4bcbf6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>2dc808a5b1be88633a8f931c627a7b823a5f5a22207f1fdccc1e1cbc0e4fb520</sys_name>
+        <sys_package display_value="Property Request" source="x_120070_property">1797ded21bb233004ecf32a3cc4bcbfa</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Classic Mobile Application">ab704041ff1102009738ffffffffff33</sys_push_application_id>
+        <sys_push_platform_id display_value="Apple">20e71f30ff0002009738ffffffffff6b</sys_push_platform_id>
+        <sys_scope display_value="Property Request">1797ded21bb233004ecf32a3cc4bcbfa</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_5419629e1bf233004ecf32a3cc4bcbf6</sys_update_name>
+        <sys_updated_by>User4</sys_updated_by>
+        <sys_updated_on>2019-07-24 19:45:00</sys_updated_on>
+        <sys_user_id display_value="User Four">e6f696d21bb233004ecf32a3cc4bcb23</sys_user_id>
+        <token>2dc808a5b1be88633a8f931c627a7b823a5f5a22207f1fdccc1e1cbc0e4fb520</token>
+    </sys_push_notif_app_install>
+</record_update>

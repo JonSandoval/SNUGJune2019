@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="x_120070_property_request_table" label="Follow Up Task" max_length="40" name="x_120070_property_follow_up_task" type="collection">
+        <element label="Parent Property Request" max_length="32" name="u_parent" reference="x_120070_property_request_table" type="reference"/>
+    </element>
+</database>

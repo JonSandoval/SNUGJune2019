@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>follow_up_task</internal_name>
+        <label_cache>[{"name":"Created or Updated_1.current.assigned_to","label":"Trigger➛Property Request Table Record➛Assigned to","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","parent_table_name":"x_120070_property_request_table","column_name":"assigned_to"},{"name":"Created or Updated_1.current.short_description","label":"Trigger➛Property Request Table Record➛Short Description","reference":"","reference_display":"Short Description","type":"string","base_type":"string","parent_table_name":"x_120070_property_request_table","column_name":"short_description"},{"name":"Created or Updated_1.run_start_time","label":"Trigger➛Run Start Time","type":"glide_date_time","base_type":"glide_date_time"},{"name":"Created or Updated_1.current.u_building","label":"Trigger➛Property Request Table Record➛Building","reference":"cmn_location","reference_display":"Location","type":"reference","base_type":"reference","parent_table_name":"x_120070_property_request_table","column_name":"u_building"},{"name":"Created or Updated_1.current","label":"Trigger➛Property Request Table Record","reference":"x_120070_property_request_table","reference_display":"Property Request Table","type":"reference","base_type":"reference"},{"name":"Created or Updated_1.current.u_tenant","label":"Trigger➛Property Request Table Record➛Tenant","reference":"core_company","reference_display":"Company","type":"reference","base_type":"reference","parent_table_name":"x_120070_property_request_table","column_name":"u_tenant"},{"name":"791c12d2-12bf-4c83-8894-e6b6364eec56.table_name","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"791c12d2-12bf-4c83-8894-e6b6364eec56.record","label":"1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"}]</label_cache>
+        <latest_snapshot>c656f2d61b7633004ecf32a3cc4bcb0a</latest_snapshot>
+        <master_snapshot>8e14fa161b7633004ecf32a3cc4bcb7d</master_snapshot>
+        <name>Follow Up Task</name>
+        <outputs/>
+        <remote_trigger_id>9e14fa161b7633004ecf32a3cc4bcbc0</remote_trigger_id>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-24 20:25:01</sys_created_on>
+        <sys_id>b6327a921b7633004ecf32a3cc4bcb7c</sys_id>
+        <sys_mod_count>15</sys_mod_count>
+        <sys_name>Follow Up Task</sys_name>
+        <sys_package display_value="Property Request" source="x_120070_property">1797ded21bb233004ecf32a3cc4bcbfa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Property Request">1797ded21bb233004ecf32a3cc4bcbfa</sys_scope>
+        <sys_update_name>sys_hub_flow_b6327a921b7633004ecf32a3cc4bcb7c</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-07-24 20:42:59</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=b6327a921b7633004ecf32a3cc4bcb7c"/>
+    <sys_variable_value action="delete_multiple" query="document_key=b6327a921b7633004ecf32a3cc4bcb7c"/>
+</record_update>
